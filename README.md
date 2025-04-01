@@ -10,4 +10,9 @@
 - change each app to it's icon in the icons directory in this repo
 - go to nova settings > home screen > dock > match deskstop size disable it
 - then set icon size to 70%
-- go back to home screen then set page indicator to the dots with similar sizes
+- go back to home screen settings then set page indicator to the dots with similar sizes
+- go to nova settings > app drawer and disable match desktop size (to remove lag)
+- go to nova settings > home screen > icon size to 200%
+- then label change condensed to medium and make it a little bigger
+- go to nova settings > look & feel > disable show notification bar
+- lastly go to nova settings > style > home screen > accent > custom color to #e6e6e6
